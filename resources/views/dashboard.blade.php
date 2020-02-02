@@ -43,7 +43,7 @@
             <div class="container">
                 <a class="navbar-brand text-light" href="{{ url('/dashboard') }}">
                     <!-- {{ config('app.name', 'Laravel') }} --><img src="https://img.icons8.com/plasticine/100/000000/trust.png" class="img-responsive" width="15%">
-                    IRMS
+                    Ideal Ration Management System
                 </a>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
